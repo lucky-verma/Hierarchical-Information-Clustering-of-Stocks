@@ -4,7 +4,6 @@ Direct Bubble Hierarchical Tree (DBHT) clustering
 > ## Project Description
 Perform Direct Bubble Hierarchical Tree (DBHT) clustering, a deterministic technique which only requires a similarity matrix S, and related dissimilarity matrix D. For more information see “Hierarchical information clustering by means of topologically embedded graphs.”. This version makes extensive use of graph-theoretic filtering technique called Triangulated Maximally Filtered Graph (TMFG).
 
-
 > ## Setup Environment
 ```sh
 $ git clone git@github.com:lucky-verma/DAA_641-Spring_22-Project_2.git
