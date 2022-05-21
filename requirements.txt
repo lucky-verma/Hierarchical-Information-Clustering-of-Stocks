@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+numpy
+pandas
+matplotlib
+scipy
+scipy
+riskfolio
+jupyterlab
+networkx
