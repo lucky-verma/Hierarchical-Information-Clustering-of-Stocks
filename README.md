@@ -23,7 +23,8 @@ $ jupyter lab --app_dir=/var/ --preferred_dir /var/www/html/example-app/
 ```
 
 > ## Demo
-
+![Hierarcy Dendogram](dendogram.png)
+![Minimum Spanning Tree](MST.png)
 
 > ## References
 1. [Won-Min Song, T. Di Matteo, and Tomaso Aste. Hierarchical information clustering by means of topologically embedded graphs. PLOS ONE, 7(3):1–14, 03 2012.](https://doi.org/10.1371/journal.pone.0031929)
